@@ -1,0 +1,1 @@
+# this is a sample of an exercise on some calculations in mathematics; random numbers, occurences, mean, median, mode, etc.
